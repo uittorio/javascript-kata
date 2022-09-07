@@ -1,0 +1,22 @@
+{
+  "name": "javascript-kata",
+  "version": "1.0.0",
+  "description": "Just some katas about javascript copied from the internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uittorio/javascript-kata.git"
+  },
+  "author": "Vittorio Guerriero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uittorio/javascript-kata/issues"
+  },
+  "homepage": "https://github.com/uittorio/javascript-kata#readme",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  }
+}
