@@ -1,2 +1,2 @@
 # javascript-kata
-Just some katas about javascript copied from jskata.org
+Just some katas about javascript, to learn javascript
